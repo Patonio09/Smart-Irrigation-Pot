@@ -19,10 +19,9 @@ This project combines **automation, IoT, and sustainability** to support urban g
 ## 🛠️ Technologies Used
 - **Arduino Nano** (C++ for microcontroller programming)  
 - **Soil moisture sensor + water pump**  
-- **PCB design** in [insert software you used]  
+- **PCB design** in Fritzing/Eagle  
 - **CAD design** in Autodesk Inventor  
-- **Mobile app** [Android/iOS or framework you used]  
-- **Python (Raspberry Pi)** [if you added extra features]  
+- **Mobile app** MIT AppInventor   
 
 ---
 
