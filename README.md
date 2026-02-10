@@ -46,8 +46,8 @@ This project combines **automation, IoT, and sustainability** to support urban g
 </p>
 
 <p align="center">
-  <img src="hardware/PCB_bottom.jpg" width="350">
-  <img src="hardware/PCB_top.jpg" width="350"><br>
+  <img src="hardware/PCB_bottom.jpg" heigth="350">
+  <img src="hardware/PCB_top.jpg" heigth="350"><br>
   <em>Custom PCB for the control system</em>
 </p>
 
