@@ -45,7 +45,8 @@ This project combines **automation, IoT, and sustainability** to support urban g
 ![PCB Top](hardware/PCB_top.jpg) 
 *Custom PCB for control system*  
 
-![App](software/App-Screenshot.jpg)  
+![App](software/App_Screenshot.jpg)
+![App](software/blocks.png)
 *Mobile app interface to monitor and control irrigation*  
 
 
