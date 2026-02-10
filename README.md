@@ -36,24 +36,24 @@ This project combines **automation, IoT, and sustainability** to support urban g
 
 ## 📷 Project Gallery
 <p align="center">
-  <img src="hardware/Structure.png" width="400"><br>
+  <img src="hardware/Structure.png" width="500"><br>
   <em>CAD design of the structure</em>
 </p>
 
 <p align="center">
-  <img src="hardware/Tower_with_pot.jpg" width="400"><br>
+  <img src="hardware/Tower_with_pot.jpg" height="400"><br>
   <em>The assembled smart irrigation pot prototype</em>
 </p>
 
 <p align="center">
-  <img src="hardware/PCB_bottom.jpg" heigth="350">
-  <img src="hardware/PCB_top.jpg" heigth="350"><br>
+  <img src="hardware/PCB_bottom.jpg" height="350">
+  <img src="hardware/PCB_top.jpg" height="350"><br>
   <em>Custom PCB for the control system</em>
 </p>
 
 <p align="center">
-  <img src="software/App_Screenshot.jpg" width="300">
-  <img src="software/blocks.png" width="300"><br>
+  <img src="software/App_Screenshot.jpg" height="400">
+  <img src="software/blocks.png" height="400"><br>
   <em>Mobile app interface and control logic</em>
 </p>
 
