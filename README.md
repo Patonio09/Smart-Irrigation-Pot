@@ -69,16 +69,16 @@ It helps save water, reduce human error, and improve plant health — contributi
 ## 📂 Repository Structure
 ```text
 ├── hardware/
-│   ├── pcb-top.png
-│   ├── pcb-bottom.png
-│   ├── structure.png
+│   ├── PCB_top.jpg
+│   ├── PCB_bottom.jpg
+│   ├── Structure.png
 ├── software/
 │   ├── main.ino
-│   ├── app_screenshot.jpg
+│   ├── App_Screenshot.jpg
 │   ├── blocks.png
 │   ├── RiegoAuto_ConLuz.aia
 ├── images/
-│   ├── tower_with_pot.jpg
+│   ├── Tower_with_pot.jpg
 └── README.md
 ```
 
