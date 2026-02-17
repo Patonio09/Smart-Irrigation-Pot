@@ -86,7 +86,7 @@ It helps save water, reduce human error, and improve plant health — contributi
 
 ## 👨‍💻 Author
 **Patricio Flores**  
-- MSc Automation & Control – TU Ilmenau  
+- MSc Automation & Control
 - Passionate about Automation, IoT, and GreenTech 🌱  
 - [LinkedIn Profile](https://www.linkedin.com/in/patricio-flores-juarez)  
 
